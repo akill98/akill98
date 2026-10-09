@@ -12,5 +12,3 @@ I'm focused on Supply Chain, Procurement Operations, and Business Analytics, lev
 
 ---
 
-
-- 📧 **Email:** mail4akhil98@gmail.com
